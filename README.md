@@ -7,6 +7,7 @@
 ----
 
 #### Este projeto vai ser implementando dando uso ao microcontrolador ATMEGA-328P, que é o microcontrolador do arduino, irá ser desenvolvido atraves do [eclipse](https://www.eclipse.org/), com o plugin AVR. Tem como principal objetivo seguir uma linha preta, com diversos extras. Vai ser usado o conversor A/D, EEPROM, modo PWM, timers e comunicação USART.
+[Video de apresentação](https://www.youtube.com/watch?v=CKVy9AVmKbY)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/35969631/51709991-cd2f1280-201f-11e9-9b0c-49ccb89862b0.jpg" width="400" height="300">
@@ -105,5 +106,7 @@
   * Caso o robô não encontre linha preta durante 2s, então fica no estado perdido, parando os motores e dando a respetiva sinalização
   * Conta numero de voltas, caso o sensor encontre a combinaçao de sensores 10101, que é a marca que definimos como sendo o ponto de partida
  
+**Video de apresentação:**
 
+[![Robot](http://img.youtube.com/vi/CKVy9AVmKbY/0.jpg)](https://youtu.be/CKVy9AVmKbY)
 
