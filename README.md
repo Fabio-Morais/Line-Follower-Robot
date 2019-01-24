@@ -7,12 +7,15 @@
 ----
 
 #### Este projeto vai ser implementando dando uso ao microcontrolador ATMEGA-328P, que é o microcontrolador do arduino, irá ser desenvolvido atraves do [eclipse](https://www.eclipse.org/), com o plugin AVR. Tem como principal objetivo seguir uma linha preta, com diversos extras. Vai ser usado o conversor A/D, EEPROM, modo PWM, timers e comunicação USART.
+
 [Video de apresentação](https://www.youtube.com/watch?v=CKVy9AVmKbY)
+
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/35969631/51709991-cd2f1280-201f-11e9-9b0c-49ccb89862b0.jpg" width="400" height="300">
 </p>
-
 
 
 ### Materiais utilizados
