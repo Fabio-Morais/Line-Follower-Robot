@@ -29,7 +29,7 @@
 * Suporte 3x pilhas AA
 * Power Bank 4000mah
 * Interruptor ON/OFF
-* LED azul e vermelho
+* LED azul e vermelho.
 
 <p align="center">
   
